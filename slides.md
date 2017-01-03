@@ -50,13 +50,37 @@ layout: true
 
  1. Increase confidence of other scientists in your results
 
- 2. Enable the building of new research directly on top of past results
+ 2. Enable the building of new research directly on top of your past results
  
  3. Avoid repeated development of the same methods (improves efficiency)
  
  4. Increase collaborative opportunities
  
  5. Contribute to larger spatial and longer temporal scale analyses (get more citations)
+
+---
+
+# Data and code are not published because:
+
+ 1. Fear that someone will steal your research
+
+ 2. Not sure how to publish
+ 
+ 3. Messy file organization with no descriptions or notes
+ 
+ 4. Short-term time constraints
+
+---
+
+# Where to publish data:
+
+### .blue[A long-term repository which provides a DOI for citations (DOI = Digital Object Identifier).]
+
+Some Examples:
+  1. Oceanography: BCO-DMO
+  2. Earth and Environmental Science: Pangaea
+  3. General: Dryad, Figshare, Zenodo
+  4. University of Washington Libraries
 
 ---
 
