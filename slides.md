@@ -123,7 +123,7 @@ Examples of the most open licenses:
   3. Publish at the same time as a scientific paper, with links to data and code included in the paper
 
 ---
-# Reproducibility example from Dave Beck:
+# Reproducibility example from David Beck:
 
 - Two very respected economists: Reinhart and Rogoff 
    - “Growth in a Time of Debt”
