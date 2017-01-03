@@ -123,6 +123,20 @@ Examples of the most open licenses:
   3. Publish at the same time as a scientific paper, with links to data and code included in the paper
 
 ---
+# Reproducibility example from Dave Beck:
+
+- Two very respected economists: Reinhart and Rogoff 
+   - “Growth in a Time of Debt”
+
+- Original claim: **Our main finding is that across both advanced countries and emerging markets, high debt/GDP levels (90 percent and above) are associated with notably lower growth outcomes. (…) Seldom do countries “grow” their way out of debts.** 
+
+- Highly cited by governments, international lending agencies, and political parties to show that austerity is the right path
+
+- A student at UMass Amherst tried to replicate the paper and could not.  There was some difficulty getting the data from Reinhart and Rogoff.  Finally received the Excel spreadsheet that was used for the core arguments…
+
+- The student found: an incorrect weighting for some results in the spreadsheet and most importantly a bug in a spreadsheet equation!
+
+---
 # Data and code reviews:
 
 Starting to be done in some fields.  
