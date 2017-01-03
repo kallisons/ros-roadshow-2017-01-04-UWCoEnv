@@ -17,6 +17,21 @@ layout: true
 <image src="images/escience-network.png" width=500px style="opacity:0.2;filter:alpha(opacity=20);"> </div>
 
 ---
+# Example from Dan Bolnick (Bolnick and Paull 2009):
+
+<a href="http://ecoevoevoeco.blogspot.ca/2016/12/wrong-lot.html">http://ecoevoevoeco.blogspot.ca/2016/12/wrong-lot.html
+
+- The authors measured morphology and diet on a large number of individual stickleback from a single lake on Vancouver Island, then tested whether pairwise difference in phenotype (between all pairwise combinations of individuals) was correlated with pairwise dissimilarity in diet (measured by stomach contents, or stable isotopes).
+
+- Result: **They found morphology and diet to be positively correlated. And that’s what was reported in the paper, with the caveat (in the title!) that the association was weak.** 
+
+- Dr. Tony Wilson from CUNY Brooklyn tried to recreate the same analysis, so that he could figure out how it worked and apply it to his own data. But Wilson could not quite recreate some of the core results from Bolnick and Paull (2009). 
+
+- Bolnick dug up the original R code, sent it to Wilson, and after a couple of back-and-forth emails they found an error in the Mantel Test analysis.  When analyzed correctly, there was no correlation between morphology and diet. 
+
+- Bolnick sent a retraction e-mail to the journal. 
+
+---
 
 # What makes research reproducible?
 
@@ -123,20 +138,7 @@ Examples of the most open licenses:
   3. Publish at the same time as a scientific paper, with links to data and code included in the paper
 
 ---
-# Reproducibility example from David Beck:
 
-- Two very respected economists: Reinhart and Rogoff 
-   - “Growth in a Time of Debt”
-
-- Original claim: **Our main finding is that across both advanced countries and emerging markets, high debt/GDP levels (90 percent and above) are associated with notably lower growth outcomes. (…) Seldom do countries “grow” their way out of debts.** 
-
-- Highly cited by governments, international lending agencies, and political parties to show that austerity is the right path
-
-- A student at UMass Amherst tried to replicate the paper and could not.  There was some difficulty getting the data from Reinhart and Rogoff.  Finally received the Excel spreadsheet that was used for the core arguments…
-
-- The student found: an incorrect weighting for some results in the spreadsheet and most importantly a bug in a spreadsheet equation!  The correctly analyzed results showed that countries do "grow" their way out of debts.
-
----
 # Data and code reviews:
 
 Starting to be done in some fields.  
