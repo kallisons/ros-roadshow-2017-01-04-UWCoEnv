@@ -17,7 +17,7 @@ layout: true
 <image src="images/escience-network.png" width=500px style="opacity:0.2;filter:alpha(opacity=20);"> </div>
 
 ---
-# Example from Dan Bolnick:
+# Example from Dr. Dan Bolnick, UT-Austin:
 
 <a href="http://ecoevoevoeco.blogspot.ca/2016/12/wrong-lot.html">http://ecoevoevoeco.blogspot.ca/2016/12/wrong-lot.html
 
