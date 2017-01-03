@@ -21,11 +21,11 @@ layout: true
 
 <a href="http://ecoevoevoeco.blogspot.ca/2016/12/wrong-lot.html">http://ecoevoevoeco.blogspot.ca/2016/12/wrong-lot.html
 
-- Bolnick and Paull 2009: The authors measured morphology and diet on a large number of individual stickleback from a single lake on Vancouver Island, then tested whether pairwise difference in phenotype (between all pairwise combinations of individuals) was correlated with pairwise dissimilarity in diet (measured by stomach contents, or stable isotopes).
+- Bolnick and Paull 2009: The authors measured morphology and diet on a large number of individual fish from a single lake on Vancouver Island, then tested whether pairwise difference in phenotype (between all pairwise combinations of individuals) was correlated with pairwise dissimilarity in diet (measured by stomach contents, or stable isotopes).
 
 - Result: **They found morphology and diet to be positively correlated. And that’s what was reported in the paper, with the caveat (in the title!) that the association was weak.** 
 
-- Dr. Tony Wilson from CUNY Brooklyn tried to recreate the same analysis, so that he could figure out how it worked and apply it to his own data. But Wilson could not quite recreate some of the core results from Bolnick and Paull (2009). 
+- Dr. Tony Wilson from CUNY Brooklyn tried to recreate the same analysis, so that he could figure out how it worked and apply it to his own data. But Wilson could not quite recreate some of the core results. 
 
 - Bolnick dug up the original R code, sent it to Wilson, and after a couple of back-and-forth emails they found an error in the Mantel Test analysis.  When analyzed correctly, there was no correlation between morphology and diet. 
 
