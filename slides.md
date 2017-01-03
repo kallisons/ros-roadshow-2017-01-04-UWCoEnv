@@ -5,7 +5,7 @@ class: center, middle
 
 # Reproducibility and Open Science
 
-### Allison Smith, Micaela Parker, Ashley Maloney, Amanda Tan
+### Allison Smith, Ashley Maloney, Amanda Tan, Micaela Parker
 
 <small>Follow along at: <a href="https://kallisons.github.io/ros-roadshow-2017-01-04-UWCoEnv">https://kallisons.github.io/ros-roadshow-2017-01-04-UWCoEnv</small>
 
