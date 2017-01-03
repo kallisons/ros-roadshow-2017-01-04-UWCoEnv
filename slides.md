@@ -5,7 +5,7 @@ class: center, middle
 
 # Reproducibility and Open Science
 
-### Allison Smith, Ashley Maloney, Amanda Tan, Micaela Parker
+### Allison Smith
 
 <small>Follow along at: <a href="https://kallisons.github.io/ros-roadshow-2017-01-04-UWCoEnv">https://kallisons.github.io/ros-roadshow-2017-01-04-UWCoEnv</small>
 
@@ -83,6 +83,37 @@ Some Examples:
   4. University of Washington Libraries
 
 ---
+# Where to publish code:
+
+### .blue[A long-term repository which provides a DOI for citations (DOI = Digital Object Identifier).]
+
+Some Examples:
+  1. Zenodo
+  2. University of Washington Libraries
+
+---
+# Tools for code development:
+
+### .blue[...BUT not places to publish code]
+
+Github/Bitbucket:
+	1. collaborate with other code developers
+	2. version control
+	3. Directions to directly publish code from Github on Zenodo
+
+Jupyter Notebooks: contain both code which can be executed and text describing the code in an easy-to-read format.  
+
+Docker: is used to create reusable software environments
+
+---
+# Licensing for data and code:
+
+ 1. MIT License
+	2. BSD License
+	3. Creative Commons Licenses (CC BY)
+
+---
+
 
 name: crotty1
 
