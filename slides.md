@@ -36,25 +36,27 @@ layout: true
 
 ---
 
-# What does Reproducible Research mean?
+# What makes research reproducible?
 
-### .blue[Ability to determine exactly how scientific results were obtained.]
+### .blue[The ability for someone outside the original research team to do the same analyses and get the same results.]
 
- - Basis of scientific method.
+ - Descriptions of procedures and analyses are in the methods section of a scientific paper.  Data are included in the results section. 
 
- - Required for confidently building on past results.
-
- - Critical for accountability in engineering analysis / decision making.
+ - In many cases, the raw data are too numerous to publish as part of the paper and the analyses are too complex to be reproduced without the original code.  
 
 ---
 
-template: meaning1
+# Why publish data and code?
 
-### .red[Standards and best practices in computational/data science are not yet well codified.]
+ 1. Increase confidence of other scientists in your results
 
- - Experimental science: Lab notebooks, methodology section of publications, etc.
-
- - Mathematics: Proofs are required in publications.
+ 2. Enable the building of new research directly on top of past results
+ 
+ 3. Avoid repeated development of the same methods (improves efficiency)
+ 
+ 4. Increase collaborative opportunities
+ 
+ 5. Contribute to larger spatial and longer temporal scale analyses (get more citations)
 
 ---
 
