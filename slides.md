@@ -17,11 +17,11 @@ layout: true
 <image src="images/escience-network.png" width=500px style="opacity:0.2;filter:alpha(opacity=20);"> </div>
 
 ---
-# Example from Dan Bolnick (Bolnick and Paull 2009):
+# Example from Dan Bolnick:
 
 <a href="http://ecoevoevoeco.blogspot.ca/2016/12/wrong-lot.html">http://ecoevoevoeco.blogspot.ca/2016/12/wrong-lot.html
 
-- The authors measured morphology and diet on a large number of individual stickleback from a single lake on Vancouver Island, then tested whether pairwise difference in phenotype (between all pairwise combinations of individuals) was correlated with pairwise dissimilarity in diet (measured by stomach contents, or stable isotopes).
+- Bolnick and Paull 2009: The authors measured morphology and diet on a large number of individual stickleback from a single lake on Vancouver Island, then tested whether pairwise difference in phenotype (between all pairwise combinations of individuals) was correlated with pairwise dissimilarity in diet (measured by stomach contents, or stable isotopes).
 
 - Result: **They found morphology and diet to be positively correlated. And that’s what was reported in the paper, with the caveat (in the title!) that the association was weak.** 
 
