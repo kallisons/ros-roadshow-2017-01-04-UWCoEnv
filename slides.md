@@ -142,7 +142,13 @@ Starting to be done in some fields.  Should we consider it in the environmental 
 	    e. Earth Systems Science Data
      
 ---
-# Need help?
+# Get involved:
+
+Join the UW reproducibility mailing list: 
+<a href="http://mailman11.u.washington.edu/mailman/listinfo/reproducible">http://mailman11.u.washington.edu/mailman/listinfo/reproducible 
+
+---
+# Need help making your research reproducible?
 
   1. Websites: <a href="http://uwescience.github.io/reproducible/">http://uwescience.github.io/reproducible/
 
@@ -150,10 +156,6 @@ Starting to be done in some fields.  Should we consider it in the environmental 
 
   3. Me: kasm@uw.edu, Office OSB 307
 
----
-# Get involved:
 
-Join the UW reproducibility mailing list: 
-<a href="http://mailman11.u.washington.edu/mailman/listinfo/reproducible">http://mailman11.u.washington.edu/mailman/listinfo/reproducible 
 
----
+
