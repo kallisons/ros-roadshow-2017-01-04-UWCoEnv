@@ -11,24 +11,6 @@ class: center, middle
 
 ---
 
-<img src="images/escience.png" width=350>
-
-<image src="images/DSE-and-sponsors.png" height=200px>
-
-#### $ 37.8M for 5 years: <a href="http://msdse.org/">"Moore-Sloan Data Science Environments"</a>
-
-Additional funding from
- - Washington Research Foundation <br>
- - National Science Foundation
-
-#### Reproducibility and Open Science Working Group:
-
- - https://reproduciblescience.org/
-
- - Mailing list: reproducible@uw.edu
-
----
-
 layout: true
 
 <div style="position: absolute; left: 650px; top: 370px;">
@@ -97,9 +79,9 @@ Some Examples:
 ### .blue[...BUT not places to publish code]
 
 Github/Bitbucket:
-	1. collaborate with other code developers
-	2. version control
-	3. Directions to directly publish code from Github on Zenodo
+  1. collaborate with other code developers
+  2. version control
+  3. Directions to directly publish code from Github on Zenodo
 
 Jupyter Notebooks: contain both code which can be executed and text describing the code in an easy-to-read format.  
 
@@ -109,8 +91,8 @@ Docker: is used to create reusable software environments
 # Licensing for data and code:
 
  1. MIT License
-	2. BSD License
-	3. Creative Commons Licenses (CC BY)
+ 2. BSD License
+ 3. Creative Commons Licenses (CC BY)
 
 ---
 
