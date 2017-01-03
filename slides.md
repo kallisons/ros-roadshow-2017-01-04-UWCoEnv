@@ -142,7 +142,7 @@ Starting to be done in some fields.  Should we consider it in the environmental 
 	    e. Earth Systems Science Data
      
 ---
-# Resources
+# Need help?
 
   1. Websites: <a href="http://uwescience.github.io/reproducible/">http://uwescience.github.io/reproducible/
 
