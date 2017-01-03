@@ -27,7 +27,7 @@ layout: true
 
 - Dr. Tony Wilson from CUNY Brooklyn tried to recreate the same analysis, so that he could figure out how it worked and apply it to his own data. But Wilson could not quite recreate some of the core results. 
 
-- Bolnick dug up the original R code, sent it to Wilson, and after a couple of back-and-forth emails they found an error in the Mantel Test analysis.  When analyzed correctly, there was no correlation between morphology and diet. 
+- Bolnick sent the original R code to Wilson, and after a couple of back-and-forth emails they found an error in the Mantel Test analysis.  When analyzed correctly, there was no correlation between morphology and diet. 
 
 - Bolnick sent a retraction e-mail to the journal. 
 
