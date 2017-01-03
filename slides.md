@@ -99,7 +99,7 @@ Examples of the most open licenses:
  3. Creative Commons Licenses (CC BY)
 
 ---
-# README Files for data and code:
+# README files for data and code:
 
 ### .blue[Documentation that is critical for citation and use of data or code.]
 
@@ -114,7 +114,7 @@ Examples of the most open licenses:
   5. Acknowledgements
 
 ---
-# Timing of Publishing Data and Code:
+# Timing of publishing data and code:
 
   1. Publish independently
   
@@ -123,7 +123,7 @@ Examples of the most open licenses:
   3. Publish at the same time as a scientific paper, with links to data and code included in the paper
 
 ---
-# Data and Code Reviews:
+# Data and code reviews:
 
 Starting to be done in some fields.  Should we consider it in the environmental sciences? Time constraints on volunteer reviewers? 
 
