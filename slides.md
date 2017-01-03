@@ -125,7 +125,11 @@ Examples of the most open licenses:
 ---
 # Data and code reviews:
 
-Starting to be done in some fields.  Should we consider it in the environmental sciences? Time constraints on volunteer reviewers? 
+Starting to be done in some fields.  
+
+Should we consider it in the environmental sciences? 
+
+Time constraints on volunteer reviewers? 
 
 ---
 # Increasing the academic value of data and code:
@@ -145,6 +149,7 @@ Starting to be done in some fields.  Should we consider it in the environmental 
 # Get involved:
 
 Join the UW reproducibility mailing list: 
+
 <a href="http://mailman11.u.washington.edu/mailman/listinfo/reproducible">http://mailman11.u.washington.edu/mailman/listinfo/reproducible 
 
 ---
