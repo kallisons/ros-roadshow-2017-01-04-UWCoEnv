@@ -1,5 +1,4 @@
-### eScience reproducible open science roadshow
-### University of Washington
+### eScience reproducible open science roadshow </br> University of Washington
 ### College of the Environment
 ### January 4, 2017
 
