@@ -81,7 +81,8 @@ Some Examples:
 Github/Bitbucket:
   1. collaborate with other code developers
   2. version control
-  3. Directions to directly publish code from Github on Zenodo
+  3. directions to directly publish code from Github on Zenodo <a href="https://guides.github.com/activities/citable-code/
+">https://guides.github.com/activities/citable-code/
 
 Jupyter Notebooks: contain both code which can be executed and text describing the code in an easy-to-read format.  
 
@@ -90,6 +91,9 @@ Docker: is used to create reusable software environments
 ---
 # Licensing for data and code:
 
+### .blue[All data and code are protected by copyright law in the United States.  If there is no license, data and code cannot be used by anyone else by default.]
+
+Examples of the most open licenses:
  1. MIT License
  2. BSD License
  3. Creative Commons Licenses (CC BY)
