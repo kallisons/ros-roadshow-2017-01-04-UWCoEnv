@@ -134,7 +134,7 @@ Examples of the most open licenses:
 
 - A student at UMass Amherst tried to replicate the paper and could not.  There was some difficulty getting the data from Reinhart and Rogoff.  Finally received the Excel spreadsheet that was used for the core arguments…
 
-- The student found: an incorrect weighting for some results in the spreadsheet and most importantly a bug in a spreadsheet equation!
+- The student found: an incorrect weighting for some results in the spreadsheet and most importantly a bug in a spreadsheet equation!  The correctly analyzed results showed that countries do "grow" their way out of debts.
 
 ---
 # Data and code reviews:
