@@ -5,9 +5,9 @@ class: center, middle
 
 # Reproducibility and Open Science
 
-# XXX Replace link below!
+### Allison Smith, Micaela Parker, Ashley Maloney, Amanda Tan
 
-<small>Follow along at: <a href="https://uwescience.github.io/ros-roadshow">https://uwescience.github.io/ros-roadshow</small>
+<small>Follow along at: <a href="https://kallisons.github.io/ros-roadshow-2017-01-04-UWCoEnv">https://kallisons.github.io/ros-roadshow-2017-01-04-UWCoEnv</small>
 
 ---
 
