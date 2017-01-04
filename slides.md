@@ -150,9 +150,9 @@ Time constraints on volunteer reviewers?
 
   1. Publish your data and code as your scientific paper is published
   
-  2. Cite code and data resources in your scientific papers
+  2. Cite data and code resources in your scientific papers
   
-  3. Publish code and data in dedicated papers
+  3. Publish data and code in dedicated papers
 	    a. Nature Scientific Data
 	    b. Software notes in Ecography
 	    c. Geoscientific Instrumentation, Methods and Data Systems
