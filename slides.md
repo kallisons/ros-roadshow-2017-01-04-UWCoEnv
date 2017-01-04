@@ -91,15 +91,15 @@ Some Examples:
 
 ### .blue[...BUT not places to publish code]
 
-Github/Bitbucket:
+**Github/Bitbucket**:
   1. collaborate with other code developers
   2. version control
   3. directions to directly publish code from Github on Zenodo <a href="https://guides.github.com/activities/citable-code/
 ">https://guides.github.com/activities/citable-code/
 
-Jupyter Notebooks: contain both code which can be executed and text describing the code in an easy-to-read format.  
+**Jupyter Notebooks**: contain both code which can be executed and text describing the code in an easy-to-read format.  
 
-Docker: is used to create reusable software environments
+**Docker**: is used to create reusable software environments
 
 ---
 # Licensing for data and code:
